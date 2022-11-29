@@ -22,10 +22,12 @@ This will require a directory of plants
 
 Expert goals 
   - have an age/water amount factor that can change the watering schedule based on plant ages. A sapling may require more frequent but less water for example. 
+  
+  
 
 
 Questions for self
  - What happens when you are behind schedule? Should I reset the interval of days between water or always water that specific plant on the 15th and 25th instead of 10 days between watering. 
  - how to implement growth factors within the plant watering application 
      - this plan grows 2 inches every week?
- - 
+ - Should The user have the  "ability" to create a plant? Type : succulent, ivy, orchid, tree. age = weeks/ years. required watering = varies
